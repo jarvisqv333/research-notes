@@ -1,4 +1,6 @@
 - [Home](/)
+- **Health & Medical**
+  - [Pregnancy Scans: Week 13 vs 20](/health/pregnancy-scans)
 - **Kitchen & Cooking**
   - [Carbon Steel Woks](/kitchen/carbon-steel-woks)
   - [Induction Wok Cookers](/kitchen/induction-wok-cookers)
